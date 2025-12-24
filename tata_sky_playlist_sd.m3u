@@ -1,0 +1,166 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/iptv-org/epg/master/xml/tata_play.xml"
+#EXTINF:-1 tvg-name="Tata Sky SD Channels" tvg-logo="https://www.tataplay.com/images/logo.png" group-title="INFO",Tata Sky SD Channels
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.tataplay.com/
+#EXTINF:-1 tvg-id="starplus" tvg-name="Star Plus" tvg-logo="https://i.imgur.com/1.png" group-title="Hindi Entertainment" tvg-chno="117", Star Plus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.tataplay.com/
+#EXTINF:-1 tvg-id="starbharat" tvg-name="Star Bharat" tvg-logo="https://i.imgur.com/2.png" group-title="Hindi Entertainment" tvg-chno="122", Star Bharat
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.tataplay.com/
+#EXTINF:-1 tvg-id="sony_ent" tvg-name="Sony Entertainment Television" tvg-logo="https://i.imgur.com/3.png" group-title="Hindi Entertainment" tvg-chno="130", Sony Entertainment Television
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.tataplay.com/
+#EXTINF:-1 tvg-id="sony_sab" tvg-name="Sony SAB" tvg-logo="https://i.imgur.com/4.png" group-title="Hindi Entertainment" tvg-chno="134", Sony SAB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.tataplay.com/
+#EXTINF:-1 tvg-id="andtv" tvg-name="&TV" tvg-logo="https://i.imgur.com/5.png" group-title="Hindi Entertainment" tvg-chno="139", &TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.tataplay.com/
+#EXTINF:-1 tvg-id="zeetv" tvg-name="Zee TV" tvg-logo="https://i.imgur.com/6.png" group-title="Hindi Entertainment" tvg-chno="143", Zee TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.tataplay.com/
+#EXTINF:-1 tvg-id="colors" tvg-name="Colors" tvg-logo="https://i.imgur.com/7.png" group-title="Hindi Entertainment" tvg-chno="149", Colors
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.tataplay.com/
+#EXTINF:-1 tvg-id="stargold" tvg-name="Star Gold" tvg-logo="https://i.imgur.com/8.png" group-title="Hindi Movies" tvg-chno="150", Star Gold
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.tataplay.com/
+#EXTINF:-1 tvg-id="stargold2" tvg-name="Star Gold 2" tvg-logo="https://i.imgur.com/9.png" group-title="Hindi Movies" tvg-chno="152", Star Gold 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.tataplay.com/
+#EXTINF:-1 tvg-id="sonymax" tvg-name="Sony Max" tvg-logo="https://i.imgur.com/10.png" group-title="Hindi Movies" tvg-chno="154", Sony Max
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.tataplay.com/
+#EXTINF:-1 tvg-id="sonymax2" tvg-name="Sony Max 2" tvg-logo="https://i.imgur.com/11.png" group-title="Hindi Movies" tvg-chno="156", Sony Max 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.tataplay.com/
+#EXTINF:-1 tvg-id="zeecinema" tvg-name="Zee Cinema" tvg-logo="https://i.imgur.com/12.png" group-title="Hindi Movies" tvg-chno="158", Zee Cinema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.tataplay.com/
+#EXTINF:-1 tvg-id="aajtak" tvg-name="Aaj Tak" tvg-logo="https://i.imgur.com/13.png" group-title="News" tvg-chno="200", Aaj Tak
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.tataplay.com/
+#EXTINF:-1 tvg-id="indiatoday" tvg-name="India Today" tvg-logo="https://i.imgur.com/14.png" group-title="News" tvg-chno="201", India Today
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.tataplay.com/
+#EXTINF:-1 tvg-id="ndtv24x7" tvg-name="NDTV 24x7" tvg-logo="https://i.imgur.com/15.png" group-title="News" tvg-chno="202", NDTV 24x7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.tataplay.com/
+#EXTINF:-1 tvg-id="timesnow" tvg-name="Times Now" tvg-logo="https://i.imgur.com/16.png" group-title="News" tvg-chno="203", Times Now
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.tataplay.com/
+#EXTINF:-1 tvg-id="republictv" tvg-name="Republic TV" tvg-logo="https://i.imgur.com/17.png" group-title="News" tvg-chno="204", Republic TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.tataplay.com/
+#EXTINF:-1 tvg-id="starsports1" tvg-name="Star Sports 1" tvg-logo="https://i.imgur.com/18.png" group-title="Sports" tvg-chno="300", Star Sports 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.tataplay.com/
+#EXTINF:-1 tvg-id="starsports2" tvg-name="Star Sports 2" tvg-logo="https://i.imgur.com/19.png" group-title="Sports" tvg-chno="301", Star Sports 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.tataplay.com/
+#EXTINF:-1 tvg-id="starsports3" tvg-name="Star Sports 3" tvg-logo="https://i.imgur.com/20.png" group-title="Sports" tvg-chno="302", Star Sports 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.tataplay.com/
+#EXTINF:-1 tvg-id="sonysportsten1" tvg-name="Sony Sports Ten 1" tvg-logo="https://i.imgur.com/21.png" group-title="Sports" tvg-chno="304", Sony Sports Ten 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.tataplay.com/
+#EXTINF:-1 tvg-id="sonysportsten2" tvg-name="Sony Sports Ten 2" tvg-logo="https://i.imgur.com/22.png" group-title="Sports" tvg-chno="306", Sony Sports Ten 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.tataplay.com/
+#EXTINF:-1 tvg-id="sonysportsten3" tvg-name="Sony Sports Ten 3" tvg-logo="https://i.imgur.com/23.png" group-title="Sports" tvg-chno="308", Sony Sports Ten 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.tataplay.com/
+#EXTINF:-1 tvg-id="wb" tvg-name="WB" tvg-logo="https://i.imgur.com/25.png" group-title="English Entertainment" tvg-chno="369", WB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.tataplay.com/
+#EXTINF:-1 tvg-id="zeecafe" tvg-name="Zee Cafe" tvg-logo="https://i.imgur.com/26.png" group-title="English Entertainment" tvg-chno="220", Zee Cafe
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.tataplay.com/
+#EXTINF:-1 tvg-id="cartoonnetwork" tvg-name="Cartoon Network" tvg-logo="https://i.imgur.com/27.png" group-title="Kids" tvg-chno="400", Cartoon Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.tataplay.com/
+#EXTINF:-1 tvg-id="pogo" tvg-name="Pogo" tvg-logo="https://i.imgur.com/28.png" group-title="Kids" tvg-chno="402", Pogo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.tataplay.com/
+#EXTINF:-1 tvg-id="nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://i.imgur.com/29.png" group-title="Kids" tvg-chno="403", Nickelodeon
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.tataplay.com/
+#EXTINF:-1 tvg-id="suntv" tvg-name="Sun TV" tvg-logo="https://i.imgur.com/30.png" group-title="Regional Tamil" tvg-chno="500", Sun TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.tataplay.com/
+#EXTINF:-1 tvg-id="sunmusic" tvg-name="Sun Music" tvg-logo="https://i.imgur.com/31.png" group-title="Regional Tamil" tvg-chno="502", Sun Music
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.tataplay.com/
+#EXTINF:-1 tvg-id="sunnews" tvg-name="Sun News" tvg-logo="https://i.imgur.com/32.png" group-title="Regional Tamil" tvg-chno="504", Sun News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.tataplay.com/
+#EXTINF:-1 tvg-id="etvtelugu" tvg-name="ETV Telugu" tvg-logo="https://i.imgur.com/33.png" group-title="Regional Telugu" tvg-chno="510", ETV Telugu
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.tataplay.com/
+#EXTINF:-1 tvg-id="geminiv" tvg-name="Gemini TV" tvg-logo="https://i.imgur.com/34.png" group-title="Regional Telugu" tvg-chno="512", Gemini TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.tataplay.com/
+#EXTINF:-1 tvg-id="udayatv" tvg-name="Udaya TV" tvg-logo="https://i.imgur.com/35.png" group-title="Regional Kannada" tvg-chno="520", Udaya TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.tataplay.com/
+#EXTINF:-1 tvg-id="udayamusic" tvg-name="Udaya Music" tvg-logo="https://i.imgur.com/36.png" group-title="Regional Kannada" tvg-chno="522", Udaya Music
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.tataplay.com/
+#EXTINF:-1 tvg-id="asianet" tvg-name="Asianet" tvg-logo="https://i.imgur.com/37.png" group-title="Regional Malayalam" tvg-chno="530", Asianet
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.tataplay.com/
+#EXTINF:-1 tvg-id="suryatv" tvg-name="Surya TV" tvg-logo="https://i.imgur.com/38.png" group-title="Regional Malayalam" tvg-chno="532", Surya TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.tataplay.com/
+#EXTINF:-1 tvg-id="zeebangla" tvg-name="Zee Bangla" tvg-logo="https://i.imgur.com/39.png" group-title="Regional Bengali" tvg-chno="540", Zee Bangla
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.tataplay.com/
+#EXTINF:-1 tvg-id="zeebanglacinema" tvg-name="Zee Bangla Cinema" tvg-logo="https://i.imgur.com/40.png" group-title="Regional Bengali" tvg-chno="542", Zee Bangla Cinema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.tataplay.com/
+#EXTINF:-1 tvg-id="zeemarathi" tvg-name="Zee Marathi" tvg-logo="https://i.imgur.com/41.png" group-title="Regional Marathi" tvg-chno="550", Zee Marathi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.tataplay.com/
+#EXTINF:-1 tvg-id="zeemarathicinema" tvg-name="Zee Marathi Cinema" tvg-logo="https://i.imgur.com/42.png" group-title="Regional Marathi" tvg-chno="552", Zee Marathi Cinema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.tataplay.com/
+#EXTINF:-1 tvg-id="zeegujarati" tvg-name="Zee Gujarati" tvg-logo="https://i.imgur.com/43.png" group-title="Regional Gujarati" tvg-chno="560", Zee Gujarati
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.tataplay.com/
+#EXTINF:-1 tvg-id="zeegujaratcinema" tvg-name="Zee Gujarati Cinema" tvg-logo="https://i.imgur.com/44.png" group-title="Regional Gujarati" tvg-chno="562", Zee Gujarati Cinema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.tataplay.com/
+#EXTINF:-1 tvg-id="9xm" tvg-name="9XM" tvg-logo="https://i.imgur.com/45.png" group-title="Music" tvg-chno="600", 9XM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.tataplay.com/
+#EXTINF:-1 tvg-id="mtvindia" tvg-name="MTV India" tvg-logo="https://i.imgur.com/46.png" group-title="Music" tvg-chno="601", MTV India
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.tataplay.com/
+#EXTINF:-1 tvg-id="bollywoodbeats" tvg-name="Bollywood Beats" tvg-logo="https://i.imgur.com/48.png" group-title="Music" tvg-chno="603", Bollywood Beats
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.tataplay.com/
+#EXTINF:-1 tvg-id="discovery" tvg-name="Discovery Channel" tvg-logo="https://i.imgur.com/49.png" group-title="Lifestyle & Infotainment" tvg-chno="700", Discovery Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.tataplay.com/
+#EXTINF:-1 tvg-id="natgeo" tvg-name="National Geographic" tvg-logo="https://i.imgur.com/50.png" group-title="Lifestyle & Infotainment" tvg-chno="702", National Geographic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.tataplay.com/
+#EXTINF:-1 tvg-id="animalplanet" tvg-name="Animal Planet" tvg-logo="https://i.imgur.com/51.png" group-title="Lifestyle & Infotainment" tvg-chno="704", Animal Planet
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.tataplay.com/
+#EXTINF:-1 tvg-id="aasthatv" tvg-name="Aastha TV" tvg-logo="https://i.imgur.com/52.png" group-title="Religious" tvg-chno="800", Aastha TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.tataplay.com/
+#EXTINF:-1 tvg-id="sadhnav" tvg-name="Sadhna TV" tvg-logo="https://i.imgur.com/53.png" group-title="Religious" tvg-chno="801", Sadhna TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.tataplay.com/
+#EXTINF:-1 tvg-id="sanskartv" tvg-name="Sanskar TV" tvg-logo="https://i.imgur.com/54.png" group-title="Religious" tvg-chno="802", Sanskar TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.tataplay.com/
+#EXTINF:-1 tvg-id="jewellerytv" tvg-name="Jewellery TV" tvg-logo="https://i.imgur.com/55.png" group-title="Shopping" tvg-chno="900", Jewellery TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.tataplay.com/
+#EXTINF:-1 tvg-id="fashiontv" tvg-name="Fashion TV" tvg-logo="https://i.imgur.com/56.png" group-title="Shopping" tvg-chno="901", Fashion TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.tataplay.com/

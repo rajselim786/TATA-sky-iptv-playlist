@@ -1,0 +1,729 @@
+{
+  "generated_at": "2025-12-24T01:53:36.886568",
+  "total_channels": 90,
+  "hd_channels": 36,
+  "sd_channels": 54,
+  "categories": 17,
+  "channels": [
+    {
+      "name": "Star Plus",
+      "id": "starplus",
+      "logo": "https://i.imgur.com/1.png",
+      "group": "Hindi Entertainment",
+      "hd": false,
+      "epg": 117
+    },
+    {
+      "name": "Star Plus HD",
+      "id": "starplus_hd",
+      "logo": "https://i.imgur.com/1hd.png",
+      "group": "Hindi Entertainment",
+      "hd": true,
+      "epg": 115
+    },
+    {
+      "name": "Star Bharat",
+      "id": "starbharat",
+      "logo": "https://i.imgur.com/2.png",
+      "group": "Hindi Entertainment",
+      "hd": false,
+      "epg": 122
+    },
+    {
+      "name": "Star Bharat HD",
+      "id": "starbharat_hd",
+      "logo": "https://i.imgur.com/2hd.png",
+      "group": "Hindi Entertainment",
+      "hd": true,
+      "epg": 121
+    },
+    {
+      "name": "Sony Entertainment Television",
+      "id": "sony_ent",
+      "logo": "https://i.imgur.com/3.png",
+      "group": "Hindi Entertainment",
+      "hd": false,
+      "epg": 130
+    },
+    {
+      "name": "Sony Entertainment Television HD",
+      "id": "sony_ent_hd",
+      "logo": "https://i.imgur.com/3hd.png",
+      "group": "Hindi Entertainment",
+      "hd": true,
+      "epg": 128
+    },
+    {
+      "name": "Sony SAB",
+      "id": "sony_sab",
+      "logo": "https://i.imgur.com/4.png",
+      "group": "Hindi Entertainment",
+      "hd": false,
+      "epg": 134
+    },
+    {
+      "name": "Sony SAB HD",
+      "id": "sony_sab_hd",
+      "logo": "https://i.imgur.com/4hd.png",
+      "group": "Hindi Entertainment",
+      "hd": true,
+      "epg": 132
+    },
+    {
+      "name": "&TV",
+      "id": "andtv",
+      "logo": "https://i.imgur.com/5.png",
+      "group": "Hindi Entertainment",
+      "hd": false,
+      "epg": 139
+    },
+    {
+      "name": "&TV HD",
+      "id": "andtv_hd",
+      "logo": "https://i.imgur.com/5hd.png",
+      "group": "Hindi Entertainment",
+      "hd": true,
+      "epg": 137
+    },
+    {
+      "name": "Zee TV",
+      "id": "zeetv",
+      "logo": "https://i.imgur.com/6.png",
+      "group": "Hindi Entertainment",
+      "hd": false,
+      "epg": 143
+    },
+    {
+      "name": "Zee TV HD",
+      "id": "zeetv_hd",
+      "logo": "https://i.imgur.com/6hd.png",
+      "group": "Hindi Entertainment",
+      "hd": true,
+      "epg": 141
+    },
+    {
+      "name": "Colors",
+      "id": "colors",
+      "logo": "https://i.imgur.com/7.png",
+      "group": "Hindi Entertainment",
+      "hd": false,
+      "epg": 149
+    },
+    {
+      "name": "Colors HD",
+      "id": "colors_hd",
+      "logo": "https://i.imgur.com/7hd.png",
+      "group": "Hindi Entertainment",
+      "hd": true,
+      "epg": 147
+    },
+    {
+      "name": "Star Gold",
+      "id": "stargold",
+      "logo": "https://i.imgur.com/8.png",
+      "group": "Hindi Movies",
+      "hd": false,
+      "epg": 150
+    },
+    {
+      "name": "Star Gold HD",
+      "id": "stargold_hd",
+      "logo": "https://i.imgur.com/8hd.png",
+      "group": "Hindi Movies",
+      "hd": true,
+      "epg": 148
+    },
+    {
+      "name": "Star Gold 2",
+      "id": "stargold2",
+      "logo": "https://i.imgur.com/9.png",
+      "group": "Hindi Movies",
+      "hd": false,
+      "epg": 152
+    },
+    {
+      "name": "Star Gold 2 HD",
+      "id": "stargold2_hd",
+      "logo": "https://i.imgur.com/9hd.png",
+      "group": "Hindi Movies",
+      "hd": true,
+      "epg": 151
+    },
+    {
+      "name": "Sony Max",
+      "id": "sonymax",
+      "logo": "https://i.imgur.com/10.png",
+      "group": "Hindi Movies",
+      "hd": false,
+      "epg": 154
+    },
+    {
+      "name": "Sony Max HD",
+      "id": "sonymax_hd",
+      "logo": "https://i.imgur.com/10hd.png",
+      "group": "Hindi Movies",
+      "hd": true,
+      "epg": 153
+    },
+    {
+      "name": "Sony Max 2",
+      "id": "sonymax2",
+      "logo": "https://i.imgur.com/11.png",
+      "group": "Hindi Movies",
+      "hd": false,
+      "epg": 156
+    },
+    {
+      "name": "Sony Max 2 HD",
+      "id": "sonymax2_hd",
+      "logo": "https://i.imgur.com/11hd.png",
+      "group": "Hindi Movies",
+      "hd": true,
+      "epg": 155
+    },
+    {
+      "name": "Zee Cinema",
+      "id": "zeecinema",
+      "logo": "https://i.imgur.com/12.png",
+      "group": "Hindi Movies",
+      "hd": false,
+      "epg": 158
+    },
+    {
+      "name": "Zee Cinema HD",
+      "id": "zeecinema_hd",
+      "logo": "https://i.imgur.com/12hd.png",
+      "group": "Hindi Movies",
+      "hd": true,
+      "epg": 157
+    },
+    {
+      "name": "Aaj Tak",
+      "id": "aajtak",
+      "logo": "https://i.imgur.com/13.png",
+      "group": "News",
+      "hd": false,
+      "epg": 200
+    },
+    {
+      "name": "India Today",
+      "id": "indiatoday",
+      "logo": "https://i.imgur.com/14.png",
+      "group": "News",
+      "hd": false,
+      "epg": 201
+    },
+    {
+      "name": "NDTV 24x7",
+      "id": "ndtv24x7",
+      "logo": "https://i.imgur.com/15.png",
+      "group": "News",
+      "hd": false,
+      "epg": 202
+    },
+    {
+      "name": "Times Now",
+      "id": "timesnow",
+      "logo": "https://i.imgur.com/16.png",
+      "group": "News",
+      "hd": false,
+      "epg": 203
+    },
+    {
+      "name": "Republic TV",
+      "id": "republictv",
+      "logo": "https://i.imgur.com/17.png",
+      "group": "News",
+      "hd": false,
+      "epg": 204
+    },
+    {
+      "name": "Star Sports 1",
+      "id": "starsports1",
+      "logo": "https://i.imgur.com/18.png",
+      "group": "Sports",
+      "hd": false,
+      "epg": 300
+    },
+    {
+      "name": "Star Sports 1 HD",
+      "id": "starsports1_hd",
+      "logo": "https://i.imgur.com/18hd.png",
+      "group": "Sports",
+      "hd": true,
+      "epg": 298
+    },
+    {
+      "name": "Star Sports 2",
+      "id": "starsports2",
+      "logo": "https://i.imgur.com/19.png",
+      "group": "Sports",
+      "hd": false,
+      "epg": 301
+    },
+    {
+      "name": "Star Sports 2 HD",
+      "id": "starsports2_hd",
+      "logo": "https://i.imgur.com/19hd.png",
+      "group": "Sports",
+      "hd": true,
+      "epg": 299
+    },
+    {
+      "name": "Star Sports 3",
+      "id": "starsports3",
+      "logo": "https://i.imgur.com/20.png",
+      "group": "Sports",
+      "hd": false,
+      "epg": 302
+    },
+    {
+      "name": "Star Sports 3 HD",
+      "id": "starsports3_hd",
+      "logo": "https://i.imgur.com/20hd.png",
+      "group": "Sports",
+      "hd": true,
+      "epg": 303
+    },
+    {
+      "name": "Sony Sports Ten 1",
+      "id": "sonysportsten1",
+      "logo": "https://i.imgur.com/21.png",
+      "group": "Sports",
+      "hd": false,
+      "epg": 304
+    },
+    {
+      "name": "Sony Sports Ten 1 HD",
+      "id": "sonysportsten1_hd",
+      "logo": "https://i.imgur.com/21hd.png",
+      "group": "Sports",
+      "hd": true,
+      "epg": 305
+    },
+    {
+      "name": "Sony Sports Ten 2",
+      "id": "sonysportsten2",
+      "logo": "https://i.imgur.com/22.png",
+      "group": "Sports",
+      "hd": false,
+      "epg": 306
+    },
+    {
+      "name": "Sony Sports Ten 2 HD",
+      "id": "sonysportsten2_hd",
+      "logo": "https://i.imgur.com/22hd.png",
+      "group": "Sports",
+      "hd": true,
+      "epg": 307
+    },
+    {
+      "name": "Sony Sports Ten 3",
+      "id": "sonysportsten3",
+      "logo": "https://i.imgur.com/23.png",
+      "group": "Sports",
+      "hd": false,
+      "epg": 308
+    },
+    {
+      "name": "Sony Sports Ten 3 HD",
+      "id": "sonysportsten3_hd",
+      "logo": "https://i.imgur.com/23hd.png",
+      "group": "Sports",
+      "hd": true,
+      "epg": 309
+    },
+    {
+      "name": "Star World Premiere HD",
+      "id": "starworld_hd",
+      "logo": "https://i.imgur.com/24hd.png",
+      "group": "English Entertainment",
+      "hd": true,
+      "epg": 208
+    },
+    {
+      "name": "WB",
+      "id": "wb",
+      "logo": "https://i.imgur.com/25.png",
+      "group": "English Entertainment",
+      "hd": false,
+      "epg": 369
+    },
+    {
+      "name": "Zee Cafe",
+      "id": "zeecafe",
+      "logo": "https://i.imgur.com/26.png",
+      "group": "English Entertainment",
+      "hd": false,
+      "epg": 220
+    },
+    {
+      "name": "Zee Cafe HD",
+      "id": "zeecafe_hd",
+      "logo": "https://i.imgur.com/26hd.png",
+      "group": "English Entertainment",
+      "hd": true,
+      "epg": 221
+    },
+    {
+      "name": "Cartoon Network",
+      "id": "cartoonnetwork",
+      "logo": "https://i.imgur.com/27.png",
+      "group": "Kids",
+      "hd": false,
+      "epg": 400
+    },
+    {
+      "name": "Cartoon Network HD",
+      "id": "cartoonnetwork_hd",
+      "logo": "https://i.imgur.com/27hd.png",
+      "group": "Kids",
+      "hd": true,
+      "epg": 401
+    },
+    {
+      "name": "Pogo",
+      "id": "pogo",
+      "logo": "https://i.imgur.com/28.png",
+      "group": "Kids",
+      "hd": false,
+      "epg": 402
+    },
+    {
+      "name": "Nickelodeon",
+      "id": "nickelodeon",
+      "logo": "https://i.imgur.com/29.png",
+      "group": "Kids",
+      "hd": false,
+      "epg": 403
+    },
+    {
+      "name": "Nick HD",
+      "id": "nickhd",
+      "logo": "https://i.imgur.com/29hd.png",
+      "group": "Kids",
+      "hd": true,
+      "epg": 404
+    },
+    {
+      "name": "Sun TV",
+      "id": "suntv",
+      "logo": "https://i.imgur.com/30.png",
+      "group": "Regional Tamil",
+      "hd": false,
+      "epg": 500
+    },
+    {
+      "name": "Sun TV HD",
+      "id": "suntv_hd",
+      "logo": "https://i.imgur.com/30hd.png",
+      "group": "Regional Tamil",
+      "hd": true,
+      "epg": 501
+    },
+    {
+      "name": "Sun Music",
+      "id": "sunmusic",
+      "logo": "https://i.imgur.com/31.png",
+      "group": "Regional Tamil",
+      "hd": false,
+      "epg": 502
+    },
+    {
+      "name": "Sun Music HD",
+      "id": "sunmusic_hd",
+      "logo": "https://i.imgur.com/31hd.png",
+      "group": "Regional Tamil",
+      "hd": true,
+      "epg": 503
+    },
+    {
+      "name": "Sun News",
+      "id": "sunnews",
+      "logo": "https://i.imgur.com/32.png",
+      "group": "Regional Tamil",
+      "hd": false,
+      "epg": 504
+    },
+    {
+      "name": "ETV Telugu",
+      "id": "etvtelugu",
+      "logo": "https://i.imgur.com/33.png",
+      "group": "Regional Telugu",
+      "hd": false,
+      "epg": 510
+    },
+    {
+      "name": "ETV Telugu HD",
+      "id": "etvtelugu_hd",
+      "logo": "https://i.imgur.com/33hd.png",
+      "group": "Regional Telugu",
+      "hd": true,
+      "epg": 511
+    },
+    {
+      "name": "Gemini TV",
+      "id": "geminiv",
+      "logo": "https://i.imgur.com/34.png",
+      "group": "Regional Telugu",
+      "hd": false,
+      "epg": 512
+    },
+    {
+      "name": "Gemini TV HD",
+      "id": "geminiv_hd",
+      "logo": "https://i.imgur.com/34hd.png",
+      "group": "Regional Telugu",
+      "hd": true,
+      "epg": 513
+    },
+    {
+      "name": "Udaya TV",
+      "id": "udayatv",
+      "logo": "https://i.imgur.com/35.png",
+      "group": "Regional Kannada",
+      "hd": false,
+      "epg": 520
+    },
+    {
+      "name": "Udaya TV HD",
+      "id": "udayatv_hd",
+      "logo": "https://i.imgur.com/35hd.png",
+      "group": "Regional Kannada",
+      "hd": true,
+      "epg": 521
+    },
+    {
+      "name": "Udaya Music",
+      "id": "udayamusic",
+      "logo": "https://i.imgur.com/36.png",
+      "group": "Regional Kannada",
+      "hd": false,
+      "epg": 522
+    },
+    {
+      "name": "Asianet",
+      "id": "asianet",
+      "logo": "https://i.imgur.com/37.png",
+      "group": "Regional Malayalam",
+      "hd": false,
+      "epg": 530
+    },
+    {
+      "name": "Asianet HD",
+      "id": "asianet_hd",
+      "logo": "https://i.imgur.com/37hd.png",
+      "group": "Regional Malayalam",
+      "hd": true,
+      "epg": 531
+    },
+    {
+      "name": "Surya TV",
+      "id": "suryatv",
+      "logo": "https://i.imgur.com/38.png",
+      "group": "Regional Malayalam",
+      "hd": false,
+      "epg": 532
+    },
+    {
+      "name": "Surya TV HD",
+      "id": "suryatv_hd",
+      "logo": "https://i.imgur.com/38hd.png",
+      "group": "Regional Malayalam",
+      "hd": true,
+      "epg": 533
+    },
+    {
+      "name": "Zee Bangla",
+      "id": "zeebangla",
+      "logo": "https://i.imgur.com/39.png",
+      "group": "Regional Bengali",
+      "hd": false,
+      "epg": 540
+    },
+    {
+      "name": "Zee Bangla HD",
+      "id": "zeebangla_hd",
+      "logo": "https://i.imgur.com/39hd.png",
+      "group": "Regional Bengali",
+      "hd": true,
+      "epg": 541
+    },
+    {
+      "name": "Zee Bangla Cinema",
+      "id": "zeebanglacinema",
+      "logo": "https://i.imgur.com/40.png",
+      "group": "Regional Bengali",
+      "hd": false,
+      "epg": 542
+    },
+    {
+      "name": "Zee Marathi",
+      "id": "zeemarathi",
+      "logo": "https://i.imgur.com/41.png",
+      "group": "Regional Marathi",
+      "hd": false,
+      "epg": 550
+    },
+    {
+      "name": "Zee Marathi HD",
+      "id": "zeemarathi_hd",
+      "logo": "https://i.imgur.com/41hd.png",
+      "group": "Regional Marathi",
+      "hd": true,
+      "epg": 551
+    },
+    {
+      "name": "Zee Marathi Cinema",
+      "id": "zeemarathicinema",
+      "logo": "https://i.imgur.com/42.png",
+      "group": "Regional Marathi",
+      "hd": false,
+      "epg": 552
+    },
+    {
+      "name": "Zee Gujarati",
+      "id": "zeegujarati",
+      "logo": "https://i.imgur.com/43.png",
+      "group": "Regional Gujarati",
+      "hd": false,
+      "epg": 560
+    },
+    {
+      "name": "Zee Gujarati HD",
+      "id": "zeegujarati_hd",
+      "logo": "https://i.imgur.com/43hd.png",
+      "group": "Regional Gujarati",
+      "hd": true,
+      "epg": 561
+    },
+    {
+      "name": "Zee Gujarati Cinema",
+      "id": "zeegujaratcinema",
+      "logo": "https://i.imgur.com/44.png",
+      "group": "Regional Gujarati",
+      "hd": false,
+      "epg": 562
+    },
+    {
+      "name": "9XM",
+      "id": "9xm",
+      "logo": "https://i.imgur.com/45.png",
+      "group": "Music",
+      "hd": false,
+      "epg": 600
+    },
+    {
+      "name": "MTV India",
+      "id": "mtvindia",
+      "logo": "https://i.imgur.com/46.png",
+      "group": "Music",
+      "hd": false,
+      "epg": 601
+    },
+    {
+      "name": "Bollywood HD",
+      "id": "bollywoodhd",
+      "logo": "https://i.imgur.com/47hd.png",
+      "group": "Music",
+      "hd": true,
+      "epg": 602
+    },
+    {
+      "name": "Bollywood Beats",
+      "id": "bollywoodbeats",
+      "logo": "https://i.imgur.com/48.png",
+      "group": "Music",
+      "hd": false,
+      "epg": 603
+    },
+    {
+      "name": "Discovery Channel",
+      "id": "discovery",
+      "logo": "https://i.imgur.com/49.png",
+      "group": "Lifestyle & Infotainment",
+      "hd": false,
+      "epg": 700
+    },
+    {
+      "name": "Discovery Channel HD",
+      "id": "discovery_hd",
+      "logo": "https://i.imgur.com/49hd.png",
+      "group": "Lifestyle & Infotainment",
+      "hd": true,
+      "epg": 701
+    },
+    {
+      "name": "National Geographic",
+      "id": "natgeo",
+      "logo": "https://i.imgur.com/50.png",
+      "group": "Lifestyle & Infotainment",
+      "hd": false,
+      "epg": 702
+    },
+    {
+      "name": "National Geographic HD",
+      "id": "natgeo_hd",
+      "logo": "https://i.imgur.com/50hd.png",
+      "group": "Lifestyle & Infotainment",
+      "hd": true,
+      "epg": 703
+    },
+    {
+      "name": "Animal Planet",
+      "id": "animalplanet",
+      "logo": "https://i.imgur.com/51.png",
+      "group": "Lifestyle & Infotainment",
+      "hd": false,
+      "epg": 704
+    },
+    {
+      "name": "Animal Planet HD",
+      "id": "animalplanet_hd",
+      "logo": "https://i.imgur.com/51hd.png",
+      "group": "Lifestyle & Infotainment",
+      "hd": true,
+      "epg": 705
+    },
+    {
+      "name": "Aastha TV",
+      "id": "aasthatv",
+      "logo": "https://i.imgur.com/52.png",
+      "group": "Religious",
+      "hd": false,
+      "epg": 800
+    },
+    {
+      "name": "Sadhna TV",
+      "id": "sadhnav",
+      "logo": "https://i.imgur.com/53.png",
+      "group": "Religious",
+      "hd": false,
+      "epg": 801
+    },
+    {
+      "name": "Sanskar TV",
+      "id": "sanskartv",
+      "logo": "https://i.imgur.com/54.png",
+      "group": "Religious",
+      "hd": false,
+      "epg": 802
+    },
+    {
+      "name": "Jewellery TV",
+      "id": "jewellerytv",
+      "logo": "https://i.imgur.com/55.png",
+      "group": "Shopping",
+      "hd": false,
+      "epg": 900
+    },
+    {
+      "name": "Fashion TV",
+      "id": "fashiontv",
+      "logo": "https://i.imgur.com/56.png",
+      "group": "Shopping",
+      "hd": false,
+      "epg": 901
+    }
+  ]
+}
